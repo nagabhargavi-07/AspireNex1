@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Online Quiz Maker</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div id="home-page">
+            <h1>Welcome to Online Quiz Maker</h1>
+            <div class="button-container">
+                <button id="create-quiz-btn" class="small-button">Create Quiz</button>
+                <button id="take-quiz-btn" class="small-button">Take Quiz</button>
+            </div>
+        </div>
+        <div id="create-quiz" style="display: none;">
+            <h2>Create Quiz</h2>
+            <form id="quiz-form">
+                <div class="centered-form-group">
+                    <label for="quiz-title">Quiz Title:</label>
+                    <input type="text" id="quiz-title" name="quiz-title" required>
+                </div>
+                <div class="centered-form-group">
+                    <label for="quiz-description">Quiz Description:</label>
+                    <textarea id="quiz-description" name="quiz-description" required></textarea>
+                </div>
+                <div id="questions-container"></div>
+                <div class="button-container">
+                    <button type="button" id="add-question-btn" class="small-button">Add Question</button>
+                    <button type="submit" class="small-button">Save Quiz</button>
+                </div>
+            </form>
+            <button id="create-back-btn" class="small-button">Back</button>
+        </div>
+        <div id="take-quiz" style="display: none;">
+            <h2>Take Quiz</h2>
+            <div id="quizzes-list"></div>
+            <button id="take-back-btn" class="small-button">Back</button>
+        </div>
+        <div id="quiz-result" style="display: none;"></div>
+    </div>
+    <script src="scripts.js"></script>
+</body>
+</html>
