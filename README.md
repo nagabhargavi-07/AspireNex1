@@ -1,7 +1,1 @@
-![Screenshot 2024-07-07 204046](https://github.com/nagabhargavi-07/AspireNex1/assets/160587769/9df41d5c-db60-444e-84e8-8066d0838570)
-![Screenshot 2024-07-07 204028](https://github.com/nagabhargavi-07/AspireNex1/assets/160587769/4793e1cb-aa7b-42d9-9d38-dd860ff9265f)
-![Screenshot 2024-07-07 204018](https://github.com/nagabhargavi-07/AspireNex1/assets/160587769/d2d613ef-63f2-4491-8284-f80353f4cfe0)
-![Screenshot 2024-07-07 204002](https://github.com/nagabhargavi-07/AspireNex1/assets/160587769/8f9761f7-f0a6-4ff9-81b4-79fb90f026b8)
-![Screenshot 2024-07-07 203754](https://github.com/nagabhargavi-07/AspireNex1/assets/160587769/bae571b9-09e2-4088-8bae-222682d33cd9)
-![Screenshot 2024-07-07 203736](https://github.com/nagabhargavi-07/AspireNex1/assets/160587769/afb7dbd2-dd45-43a2-967a-285d8e028240)
-![Screenshot 2024-07-07 201819](https://github.com/nagabhargavi-07/AspireNex1/assets/160587769/dcff9583-6079-423f-b79b-024f265f1064)
+
